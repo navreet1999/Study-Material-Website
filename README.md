@@ -1,6 +1,6 @@
 # Study-Material-Website
 
-A Static Website of Study-Material using HTML,CSS,BOOTSTRAP,JQuery,where students can access the particular notes,course curriculum 
+A Static Website of Study-Material using HTML,CSS,JavaScript,JQuery,where students can access the particular notes,course curriculum 
 of different Subject.
 
 ![Screenshot (139)](https://user-images.githubusercontent.com/44254251/73131560-38486600-4033-11ea-9931-fc00a9d45cf3.png)
